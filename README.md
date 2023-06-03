@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @C0d3r58
+- 👀 I’m interested in making programs like none other
+- 🌱 I’m currently learning HTML, CSS and Javascript
